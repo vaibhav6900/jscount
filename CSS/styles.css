@@ -1,6 +1,22 @@
 #counter{
-    background-color: aqua;
-    border: red 20px solid;
-    margin:  0 20px 0 20px;
-    padding:0 60px 0 60px; ;
+    background-color:white;
+    border: grey 0.5px solid;
+    /* margin:  0 20px 0 20px; */
+    padding:22px 25px ;
+    margin: 0px;
+}
+.container{
+    text-align: center;
+    translate: 0px 300px;
+    border-radius: 50px;
+
+    
+}
+button{
+    padding:22px 25px ;
+    border: grey 0.5px solid;
+    background-color:#c1c7be;
+    /* border-radius: 5px; */
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
 }
